@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 01 11:31:41 UTC 2020
+org.apache.felix.bundlerepository-1.6.2.jar>central=
+org.apache.felix.bundlerepository-1.6.2.pom>central=
